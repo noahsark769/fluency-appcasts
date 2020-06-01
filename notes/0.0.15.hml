@@ -1,0 +1,21 @@
+<html>
+    <body>
+        <h1>Fluency 0.0.15</h1>
+        <p>Thank you for beta testing Fluency!</p>
+        <h2>Improvements and Fixes</h2>
+        <ul>
+            <li>Colors for the page content and the page heading are now more cohesive</li>
+            <li>Fluency autocorrects colors so that you can view page content in Dark Mode if enabled on your system</li>
+            <li>Fluency tracks your recent pages for quick access in the sidebar</li>
+            <li>Fixed an issue where links to page attachments would not display</li>
+            <li>Fixed an issue where nested list items would not show up or would be incorrectly formatted</li>
+            <li>Fixed an issue where code blocks with embedded colors would have line breaks incorrectly formatted</li>
+            <li>Fixed an issue where code blocks and monospaced content would sometimes not display line breaks correctly</li>
+            <li>Fixed an issue where empty entries in the table of contents would sometimes appear</li>
+            <li>Fixed an issue where links to headings on the same page would sometimes not display</li>
+            <li>Fixed an issue where text inside of tip and callout macros would sometimes show with extra line breaks</li>
+            <li>Fixed an issue where nested bullet lists would sometimes not display correctly</li>
+            <li>Fixed an issue where periodic space updates would sometimes not start</li>
+        </ul>
+    </body>
+</html>
