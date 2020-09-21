@@ -3,6 +3,13 @@
     <channel>   
         <title>Fluency</title>
         <item>
+            <title>0.0.19</title>
+            <pubDate>Mon, 21 Sep 2020 15:28:37 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://noahsark769.github.io/fluency-appcasts/notes/0.0.19.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/noahsark769/fluency-appcasts/releases/download/0.0.19/Fluency.0.0.19.dmg" sparkle:version="0.0.19" sparkle:shortVersionString="0.0.19" length="7044113" type="application/octet-stream" sparkle:edSignature="KCVvuvLE4S5EEm0VXGNtcdkzczfWCGy2mNYWPjSddxiv+EgXorDt5gk6dO0gLqSl+YQf8mXUAFcmExD46pyTBQ=="/>
+        </item>
+        <item>
             <title>0.0.18</title>
             <pubDate>Tue, 04 Aug 2020 10:01:06 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
