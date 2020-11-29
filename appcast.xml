@@ -3,10 +3,17 @@
     <channel>   
         <title>Fluency</title>
         <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 28 Nov 2020 21:56:19 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://noahsark769.github.io/fluency-appcasts/notes/0.1.0.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/noahsark769/fluency-appcasts/releases/download/0.1.0/Fluency.0.1.0.dmg" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0" length="13689970" type="application/octet-stream" sparkle:edSignature="r/IembCFSRjOhjScycgqcjtIfY38Oxmv+IWUy/hjNUenW9SsG4mbgNyYb5N+HeQQ4bqX0HbCmdHvoZ003dxRBw=="/>
+        </item>
+        <item>
             <title>0.0.20</title>
             <pubDate>Mon, 05 Oct 2020 13:32:26 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://noahsark769.github.io/fluency-appcasts/notes/0.0.19.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://noahsark769.github.io/fluency-appcasts/notes/0.0.20.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/noahsark769/fluency-appcasts/releases/download/0.0.20/Fluency.0.0.20.dmg" sparkle:version="0.0.20" sparkle:shortVersionString="0.0.20" length="7044810" type="application/octet-stream" sparkle:edSignature="7Te+SAqjJir7PPAc7XZcK7YxD2TV4n5D3/smuuRhA9VH1fJ49k3E9sD+HwYC4qC10Z/zqDK92pM8otm/KNe+CA=="/>
         </item>
         <item>
