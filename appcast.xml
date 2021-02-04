@@ -3,6 +3,13 @@
     <channel>   
         <title>Fluency</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 03 Feb 2021 20:27:22 -0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://noahsark769.github.io/fluency-appcasts/notes/0.2.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/noahsark769/fluency-appcasts/releases/download/0.2.2/Fluency.0.2.2.dmg" sparkle:version="0.2.2" sparkle:shortVersionString="0.2.2" length="16348475" type="application/octet-stream" sparkle:edSignature="1/nTOjWlsV3xrQAuylU5CxtQWpd6e1hc7y+/g0rVvSbRF92Bjuznx56I9P4gvsJFzZZBShKBxyr5TxCJ0SRUAw=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Thu, 07 Jan 2021 07:13:29 -0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
